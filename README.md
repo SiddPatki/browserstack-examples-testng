@@ -452,7 +452,7 @@ In this section, we will run the test cases to test the internally hosted websit
 
 - How to run the test?
 
-  To run the entire test suite in parallel on a single BrowserStack browser using BrowserStackLocal, use the following command:
+  To run the entire test suite in parallel on a multiple BrowserStack browser using BrowserStackLocal, use the following command:
 
   Maven:
   ```sh
