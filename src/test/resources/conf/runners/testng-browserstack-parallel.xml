@@ -23,7 +23,6 @@
         <parameter name="env_cap_id" value="5"/>
         <classes>
             <class name="com.browserstack.test.suites.product.FilterTest"/>
-            <class name="com.browserstack.test.suites.user.UserTest"/>
         </classes>
     </test>
 </suite>
